@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Bullet
+  - Mushroom
+  - Obstacle
+  - Enemy
+  - BreakBlock
+  - SurpiseBox
+  - SurpiseBoxM
+  - KillZone
+  - Flag
+  - Koopa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Mushroom
+  - Enemy
+  - Player
+  - Floor
+  - Koopa
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Piranha
+    uniqueID: 3144217253
+    locked: 0
+  - name: Front
+    uniqueID: 4246324529
+    locked: 0
+  - name: Player
+    uniqueID: 1734268453
+    locked: 0
